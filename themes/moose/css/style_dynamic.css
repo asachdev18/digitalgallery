@@ -1,0 +1,2180 @@
+	    	    	
+	    		
+		    h6, h6 a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,a,p a,
+		    header:not(.with_hover_bg_color) nav.main_menu > ul > li:hover > a,
+		    nav.main_menu>ul>li.active > a,
+		    .drop_down .second .inner > ul > li:hover > a,
+		    .drop_down .second .inner ul li.sub ul li:hover > a,
+		    nav.mobile_menu ul li a:hover,
+		    nav.mobile_menu ul li.active > a,
+		    nav.mobile_menu ul li.active > h4,
+		    .side_menu_button > a:hover,
+		    .side_menu_button > a:hover > span:not(.popup_menu_inner).search_icon_text,
+		    .header_top .inner .header_top_side_button > a:hover > span.search_icon_text,
+		    .header_top .inner a.search_covers_header:hover,
+		    .header_top .inner a.search_slides_from_header_bottom:hover,
+		    .header_top .inner a.search_slides_from_window_top:hover,
+		    .header_top .inner a.fullscreen_search:hover,
+		    .mobile_menu_button span:hover,
+		    .vertical_menu ul li a:hover,
+		    .vertical_menu_toggle .second .inner ul li a:hover,
+		    nav.popup_menu ul li a:hover,
+		    nav.popup_menu ul li ul li a,
+		    .comment_holder .comment .text .comment_date,
+		    .comment_holder .comment .text .replay,
+		    .comment_holder .comment .text .comment-reply-link,
+		    .comment_holder .comment .text .comment-edit-link,
+		    div.comment_form form p.logged-in-as a,
+		    .comment_holder .comment .text .comment_date_format,
+		    .pagination_prev_and_next_only ul li a:hover,
+		    .latest_post_holder .latest_post_title a:hover,
+		    .latest_post_holder.minimal .latest_post_title a,
+		    .latest_post_holder .post_info_section:before,
+		    .latest_post_holder .post_info_section span,
+		    .latest_post_holder .post_info_section a,
+		    .latest_post_holder .post_author a.post_author_link:hover,
+		    .blog_holder.blog_single .post_info a,
+		    .blog_holder.blog_single .post_info_bottom a,
+		    .projects_holder article .portfolio_title a:hover,
+		    .projects_masonry_holder article .portfolio_title a:hover,
+		    .filter_holder ul li.current span,
+		    .filter_holder ul li:not(.filter_title):hover span,
+		    blockquote h3,
+		    .eltd_dropcap,
+		    .price_in_table .value,
+		    .price_in_table .price,
+		    .price_in_table .mark,
+		    .eltd_font_elegant_holder.eltd_icon_shortcode:hover,
+		    .eltd_icon_shade.eltd_icon_shortcode:hover,
+		    .eltd_font_awsome_icon_holder.eltd_icon_shortcode:hover,
+		    .box_holder_icon_inner .eltd_icon_stack,
+		    .box_holder_icon_inner .eltd_font_elegant_holder,
+		    .eltd_icon_with_title .icon_holder .eltd_icon_stack,
+		    .eltd_icon_with_title .eltd_font_elegant_holder,
+		    .eltd_progress_bars_icons_inner.square .bar.active i,
+		    .eltd_progress_bars_icons_inner.circle .bar.active i,
+		    .eltd_progress_bars_icons_inner.normal .bar.active i,
+		    .eltd_progress_bars_icons_inner .bar.active i.fa-circle,
+		    .eltd_progress_bars_icons_inner.square .bar.active .eltd_font_elegant_icon,
+		    .eltd_progress_bars_icons_inner.circle .bar.active .eltd_font_elegant_icon,
+		    .eltd_progress_bars_icons_inner.normal .bar.active .eltd_font_elegant_icon,
+		    .eltd_social_icon_holder.normal_social .simple_social,
+		    .eltd_social_icon_holder.normal_social.with_link .simple_social,
+		    .eltd_list.number ul>li:before,
+		    .social_share_list_holder ul li i:hover,
+		    .woocommerce.single-product.single .social_share_list_holder ul li i:hover,
+		    .eltd_progress_bar .progress_number_wrapper.static .progress_number,
+		    .drop_down .wide .second ul li .qbutton:hover,
+		    .drop_down .wide .second ul li ul li .qbutton:hover,
+		    nav.content_menu ul li.active:hover i,
+		    nav.content_menu ul li:hover i,
+		    nav.content_menu ul li.active:hover a,
+		    nav.content_menu ul li:hover a,
+		    aside.sidebar .widget:not(.woocommerce) li,
+		    .header-widget.widget_nav_menu ul.menu li a:hover,
+		    input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover,
+		    .latest_post_holder .post_info_section .latest_post_categories a,
+		    .latest_post_holder .post_info_section .post_author_link,
+		    .latest_post_holder.boxes .date,
+		    .latest_post_holder.image_in_box .date,
+		    .eltd_progress_bars_vertical .progress_number,
+		    .eltd_counter_holder span.counter,
+		    .eltd_icon_shortcode span,
+		    .eltd_icon_shortcode i,
+		    .eltd_separator_with_icon .eltd_icon_holder .eltd_icon_shade i,
+		    .eltd_separator_with_icon .eltd_icon_holder .eltd_icon_shade span,
+		    .service_table_inner li.service_icon .service_table_icon,
+		    .eltd_search_form_3 .eltd_search_close a:hover,
+		    .eltd_search_form_2 .eltd_search_submit:hover,
+		    .eltd_accordion_holder.accordion .ui-accordion-header.ui-state-active,
+		    .eltd_accordion_holder.accordion .ui-accordion-header.ui-state-hover,
+		    .eltd_accordion_holder .ui-state-active .accordion_icon_holder .eltd_icon_shortcode span,
+		    .eltd_accordion_holder .ui-state-active .accordion_icon_holder .eltd_icon_shortcode i,
+		    .eltd_accordion_holder .ui-state-hover .accordion_icon_holder .eltd_icon_shortcode span,
+		    .eltd_accordion_holder .ui-state-hover .accordion_icon_holder .eltd_icon_shortcode i,
+		    .eltd_accordion_holder.accordion .ui-accordion-header.ui-state-active .accordion_mark_icon,
+		    .eltd_accordion_holder.accordion .ui-accordion-header.ui-state-hover .accordion_mark_icon,
+		    .projects_holder article .item_holder.slide_from_left_hover .portfolio_title a,
+		    .projects_masonry_holder article .item_holder.slide_from_left_hover .portfolio_title a,
+		    .portfolio_slider li.item .item_holder.slide_from_left_hover .portfolio_title a,
+		    .projects_holder article .item_holder.image_text_zoom_hover .portfolio_title a,
+		    .projects_masonry_holder article .item_holder.image_text_zoom_hover .portfolio_title a,
+		    .portfolio_slider li.item .item_holder.image_text_zoom_hover .portfolio_title a,
+		    .projects_holder article .item_holder.opposite_corners_hover .portfolio_title a:hover,
+		    .projects_masonry_holder article .item_holder.opposite_corners_hover .portfolio_title a:hover,
+		    .portfolio_slider li.item .item_holder.opposite_corners_hover .portfolio_title a:hover,
+		    .projects_holder article .item_holder.upward_hover .icons_holder a:hover,
+		    .projects_masonry_holder article .item_holder.upward_hover .icons_holder a:hover,
+		    .portfolio_slider li.item .item_holder.upward_hover .icons_holder a:hover,
+		    .projects_holder article .item_holder.image_subtle_rotate_zoom_hover .icons_holder a:hover,
+		    .projects_masonry_holder article .item_holder.image_subtle_rotate_zoom_hover .icons_holder a:hover,
+		    .portfolio_slider li.item .item_holder.image_subtle_rotate_zoom_hover .icons_holder a:hover,
+		    .shopping_cart_dropdown ul li .item_info_holder .item_left a:hover,
+		    .shopping_cart_header .header_cart i,
+		    .shopping_cart_header .header_cart:hover i,
+		    .eltd_tabs .tabs-nav li.active a,
+		    .eltd_tabs.border_arround_element .tabs-nav li.active a,
+		    .eltd_tabs.border_arround_element.transparent_tabs .tabs-nav li.active a,
+		    .eltd_tabs .tabs-nav li:hover a,
+		    .eltd_tabs.border_arround_element .tabs-nav li:hover a,
+		    .eltd_tabs.border_arround_element.transparent_tabs .tabs-nav li:hover a,
+		    .blog_holder article .post_text h2 .date,
+		    .blog_holder article .post_info a,
+		    .blog_holder article .post_info a:hover,
+		    .blog_holder article.format-link .post_text .link_image .post_text_inner .post_title a,
+		    .blog_holder article.format-quote .post_text .quote_image .post_text_inner .post_title a,
+		    .blog_holder article.format-quote h3 .date,
+		    .blog_holder article.format-link h3 .date,
+		    .blog_holder article.sticky h2 a,
+		    .blog_holder article h2 a:hover,
+		    .blog_holder.blog_single article h2:hover,
+		    .comment-list .post_author_comment .post-author-comment-icon,
+		    .eltd_team.below_image .eltd_team_info .eltd_team_position,
+		    .social_share_dropdown ul li:hover a span.social_network_icon,
+		    .social_share_dropdown ul li:hover,
+		    .social_share_dropdown ul li a:hover span.social_network_icon,
+		    .eltd_team.below_image .eltd_team_social_holder_between .social_share_icon_shape .social_share_icon,
+		    .eltd_team_social_holder_between .eltd_social_icon_holder .eltd_icon_stack, .eltd-like.liked ~ a:before,
+		    .testimonials.with_icon .testimonial_with_icon_holder .testimonial_icon_holder i,
+		    .testimonials.with_icon .testimonial_with_icon_holder .testimonial_icon_holder span,
+		    .vc_grid-container .vc_grid-filter.vc_grid-filter-color-grey > .vc_grid-filter-item:hover span,
+		    .vc_grid-container .vc_grid-filter.vc_grid-filter-color-grey > .vc_grid-filter-item.vc_active span,
+		    .blog_vertical_loop_clapper .clap-slide-down:hover,
+		    .qbutton.transparent.animate_button.rotate_icon  .icon_holder .hidden_icon,
+		    .load_more.transparent.animate_button.rotate_icon  a .icon_holder .hidden_icon,
+		    .qbutton.transparent.animate_button.rotate_text_and_icon  .icon_holder .hidden_icon,
+		    .load_more.transparent.animate_button.rotate_text_and_icon  a .icon_holder .hidden_icon,
+		    .qbutton.transparent.animate_button.fill_text_rotate_icon  .icon_holder > span:not(.hidden_icon),
+		    .load_more.transparent.animate_button.fill_text_rotate_icon  a .icon_holder > span:not(.hidden_icon),
+		    .qbutton.transparent.animate_button.rotate_text_and_icon  .text_holder .hidden_text,
+		    .load_more.transparent.animate_button.rotate_text_and_icon  a .text_holder .hidden_text,
+		    .blog_holder.masonry article:not(.format-quote):not(.format-link) h4 a:hover,
+		    .blog_holder.masonry_full_width article:not(.format-quote):not(.format-link) h4 a:hover,
+		    .drop_down .second .inner ul li a:before,
+		    .vertical_menu_to_content .second .inner ul li a:before,
+		    .side_menu a.close_side_menu:hover span,
+		    .shopping_cart_dropdown ul li .item_info_holder .quantity,
+		    .shopping_cart_dropdown ul li .item_info_holder .item_left a:hover,
+		    .shopping_cart_dropdown ul li .item_info_holder .item_right .remove:hover,
+		    .drop_down .second .inner ul li a .featured_icon{
+		    color: #006fcf;
+		    }
+		
+		    .popup_menu:hover .line,
+		    .popup_menu:hover .line:after,
+		    .popup_menu:hover .line:before,
+		    .mejs-controls .mejs-time-rail .mejs-time-current,
+		    .mejs-controls .mejs-time-rail .mejs-time-handle,
+		    .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,
+		    div.vc_row .row_badge,
+		    section.parallax_section_holder .row_badge,
+		    .eltd_dropcap.circle,
+		    .eltd_dropcap.square,
+		    .gallery_holder ul li .gallery_hover i.fa-search,
+		    .highlight,
+		    .testimonials_holder.light .flex-direction-nav a:hover,
+		    .eltd_message,
+		    .price_table_inner .price_button a,
+		    .price_table_inner .button_on_bottom_wrapper a,
+		    .eltd_price_table.active .active_text,
+		    .eltd_social_icon_holder .eltd_icon_stack,
+		    .footer_top .eltd_social_icon_holder:hover .eltd_icon_stack,
+		    .eltd_list.circle ul>li:before,
+		    .eltd_list.number.circle_number ul>li:before,
+		    .eltd_pie_graf_legend ul li .color_holder,
+		    .eltd_line_graf_legend ul li .color_holder,
+		    .animated_icon_inner span.animated_icon_back .animated_icon,
+		    .eltd_progress_bar .progress_content,
+		    .eltd_progress_bars_vertical .progress_content_outer .progress_content,
+		    .eltd_progress_bar .floating.floating_outside .progress_number,
+		    .qbutton,
+		    .load_more a,
+		    .blog_load_more_button a,
+		    .post-password-form input[type='submit'],
+		    #wp-calendar td#today,
+		    .eltd_image_gallery_no_space.light .controls a.prev-slide:hover,
+		    .eltd_image_gallery_no_space.light .controls a.next-slide:hover,
+		    input.wpcf7-form-control.wpcf7-submit,
+		    div.wpcf7-response-output.wpcf7-mail-sent-ok,
+		    .latest_post_holder.boxes .boxes_corner_info .latest_post_date_corner_holder,
+		    .blog_holder.blog_standard_type .post_corner_info_holder .post_date_standard_holder,
+		    .qbutton.white:hover,
+		    .qbutton.solid_color,
+		    .qbutton.top_and_bottom_border:hover,
+		    .pagination ul li a:hover,
+		    .single_links_pages span:hover,
+		    .comment_pager .page-numbers:hover,
+		    .comment_pager a:hover,
+		    .comment_pager .current:hover,
+		    .pagination ul li.active span,
+		    .single_links_pages > span,
+		    .comment_pager .current,
+		    .comment_pager .page-numbers.dots:hover,
+		    .read_more_button_holder a,
+		    .read_more_button_holder a.white:hover,
+		    .projects_holder article .item_holder.upward_hover .text_holder,
+		    .projects_masonry_holder article .item_holder.upward_hover .text_holder,
+		    .portfolio_slider li.item .item_holder.upward_hover .text_holder,
+		    .projects_holder article .item_holder.slide_from_left_hover .icons_holder,
+		    .projects_masonry_holder article .item_holder.slide_from_left_hover .icons_holder,
+		    .portfolio_slider li.item .item_holder.slide_from_left_hover .icons_holder,
+		    .projects_holder article .item_holder.opposite_corners_hover .text_holder .separator,
+		    .projects_masonry_holder article .item_holder.opposite_corners_hover .text_holder .separator,
+		    .portfolio_slider li.item .item_holder.opposite_corners_hover .text_holder .separator,
+		    .projects_holder article .item_holder.opposite_corners_hover .text_holder .separator.animate,
+		    .projects_masonry_holder article .item_holder.opposite_corners_hover .text_holder .separator.animate,
+		    .portfolio_slider li.item .item_holder.opposite_corners_hover .text_holder .separator.animate,
+		    .projects_holder article .item_holder.slide_from_left_hover .text_holder .separator,
+		    .projects_masonry_holder article .item_holder.slide_from_left_hover .text_holder .separator,
+		    .portfolio_slider li.item .item_holder.slide_from_left_hover .text_holder .separator,
+		    .projects_holder article .item_holder.slide_from_left_hover .text_holder .separator.animate,
+		    .projects_masonry_holder article .item_holder.slide_from_left_hover .text_holder .separator.animate,
+		    .portfolio_slider li.item .item_holder.slide_from_left_hover .text_holder .separator.animate,
+		    .projects_holder article .item_holder.subtle_vertical_hover .text_holder .separator,
+		    .projects_masonry_holder article .item_holder.subtle_vertical_hover .text_holder .separator,
+		    .portfolio_slider li.item .item_holder.subtle_vertical_hover .text_holder .separator,
+		    .projects_holder article .item_holder.subtle_vertical_hover .text_holder .separator.animate,
+		    .projects_masonry_holder article .item_holder.subtle_vertical_hover .text_holder .separator.animate,
+		    .portfolio_slider li.item .item_holder.subtle_vertical_hover .text_holder .separator.animate,
+		    .projects_holder article .item_holder.image_text_zoom_hover .text_holder .separator,
+		    .projects_masonry_holder article .item_holder.image_text_zoom_hover .text_holder .separator,
+		    .portfolio_slider li.item .item_holder.image_text_zoom_hover .text_holder .separator,
+		    .projects_holder article .item_holder.image_text_zoom_hover .text_holder .separator.animate,
+		    .projects_masonry_holder article .item_holder.image_text_zoom_hover .text_holder .separator.animate,
+		    .portfolio_slider li.item .item_holder.image_text_zoom_hover .text_holder .separator.animate,
+		    .projects_holder article .item_holder.opposite_corners_hover .icons_holder a,
+		    .projects_masonry_holder article .item_holder.opposite_corners_hover .icons_holder a,
+		    .portfolio_slider li.item .item_holder.opposite_corners_hover .icons_holder a,
+		    .projects_holder article .item_holder.subtle_vertical_hover .icons_holder a,
+		    .projects_masonry_holder article .item_holder.subtle_vertical_hover .icons_holder a,
+		    .portfolio_slider li.item .item_holder.subtle_vertical_hover .icons_holder a,
+		    .projects_holder article .item_holder.image_text_zoom_hover .icons_holder a,
+		    .projects_masonry_holder article .item_holder.image_text_zoom_hover .icons_holder a,
+		    .portfolio_slider li.item .item_holder.image_text_zoom_hover .icons_holder a,
+		    .projects_holder article .item_holder.gradient_hover .icons_holder a:hover,
+		    .projects_masonry_holder article .item_holder.gradient_hover .icons_holder a:hover,
+		    .portfolio_slider li.item .item_holder.gradient_hover .icons_holder a:hover,
+		    .filter_outer.filter_portfolio .filter_holder ul li.current span,
+		    .filter_outer.filter_portfolio .filter_holder ul li:not(.filter_title):hover span,
+		    .filter_outer.filter_portfolio .filter_holder.without_separator ul li.current span,
+		    .filter_outer.filter_portfolio .filter_holder.without_separator ul li:not(.filter_title):hover span,
+		    .filter_outer.filter_portfolio .filter_holder.without_separator ul li.filter:hover:after,
+		    .filter_outer.filter_portfolio .filter_holder.without_separator ul li.filter.current:after,
+		    .filter_outer.filter_portfolio .filter_holder.without_separator ul li.filter:hover:before,
+		    .filter_outer.filter_portfolio .filter_holder.without_separator ul li.filter.current:before,
+		    .filter_outer.filter_portfolio .filter_holder.without_separator ul li.filter:hover span:before,
+		    .filter_outer.filter_portfolio .filter_holder.without_separator ul li.filter.current span:before,
+		    .vertical_menu_hidden_button_line,
+		    .vertical_menu_hidden_button_line:after,.vertical_menu_hidden_button_line:before,
+		    .popup_menu.opened:hover .line:after,
+		    .popup_menu.opened:hover .line:before,
+		    .shopping_cart_header .header_cart_span,
+		    .shopping_cart_dropdown .cart_bottom .checkout,
+		    .shopping_cart_dropdown .cart_bottom .view-cart:hover,
+		    .popup_menu.opened:hover .line:before,
+		    .single_tags  a:hover,
+		    aside.sidebar .widget .tagcloud a:hover,
+		    .widget .tagcloud a:hover,
+		    .blog_holder article.format-link .post_text .post_text_inner:hover,
+		    .blog_holder article .post_social .post_comments i,
+		    .blog_holder article .post_social .blog_like i,
+		    .blog_holder.blog_masonry_gallery article .post_text .post_text_inner:hover,
+		    .blog_vertical_loop_button .button_icon a,
+		    .blog_vertical_loop_back_button .button_icon a,
+		    .blog_holder .post_corner_info_holder .post_date_standard_holder,
+		    .wpb_gallery .flexslider_slide .flex-control-paging li a.flex-active,
+		    .wpb_gallery .flexslider_fade .flex-control-paging li a.flex-active,
+		    .eltd_team.below_image:hover .social_share_icon_shape,
+		    .side_menu .widget.widget_nav_menu li a:hover,
+		    .side_menu_button_link.custom_lines:hover .custom_lines_inner .line,
+		    .side_menu_button_link.custom_lines:hover .custom_lines_inner .line:before,
+		    .side_menu_button_link.custom_lines:hover .custom_lines_inner .line:after{
+		    background-color: #006fcf;
+		    }
+		
+		    		
+		    .portfolio_main_holder .item_holder.image_subtle_rotate_zoom_hover .portfolio_shader,
+		    .portfolio_main_holder .item_holder.prominent_plain_hover .portfolio_shader,
+		    .portfolio_main_holder .item_holder.slide_up_hover .portfolio_shader,
+		    .portfolio_main_holder .item_holder.cursor_change_hover .portfolio_shader,
+		    .portfolio_main_holder .item_holder.circle_hover .portfolio_shader{
+		    background-color: rgba(0,111,207,0.7);
+		    }
+		
+		    .qbutton.mid_transparent:hover{
+		    border-color: rgba(0,111,207,0.25);
+		    background-color: rgba(0,111,207,0.5);
+		    }
+		    .eltd_team_social_holder .eltd_social_icon_holder:hover .eltd_icon_stack,
+		    .eltd_icon_shade.circle:hover,
+		    .eltd_icon_shade.square:hover,
+		    .eltd_team_social_holder .eltd_social_icon_holder:hover .eltd_icon_stack{
+		    background-color: #006fcf !important;
+		    }
+		
+		    #respond textarea:focus,
+		    #respond input[type='text']:focus,
+		    .post-password-form input[type='password']:focus,
+		    .testimonials_holder.light .flex-direction-nav a:hover,
+		    .eltd_progress_bars_icons_inner.circle .bar .bar_noactive,
+		    .eltd_progress_bars_icons_inner.square .bar .bar_noactive,
+		    .animated_icon_inner span.animated_icon_back .animated_icon,
+		    .post-password-form input[type='submit'],
+		    .blog_load_more_button a:hover,
+		    #submit_comment:hover,
+		    .drop_down .wide .second ul li .qbutton:hover,
+		    .drop_down .wide .second ul li ul li .qbutton:hover,
+		    .post-password-form input[type='submit']:hover,
+		    .filter_outer.filter_portfolio .filter_holder ul li.current,
+		    .filter_outer.filter_portfolio .filter_holder ul li:not(.filter_title):hover,
+		    .call_to_action .to_action_column2.button_wrapper .qbutton:hover,
+		    .header-widget.widget_nav_menu ul ul,
+		    input.wpcf7-form-control.wpcf7-text:focus,
+		    input.wpcf7-form-control.wpcf7-number:focus,
+		    input.wpcf7-form-control.wpcf7-date:focus,
+		    textarea.wpcf7-form-control.wpcf7-textarea:focus,
+		    select.wpcf7-form-control.wpcf7-select:focus,
+		    input.wpcf7-form-control.wpcf7-quiz:focus,
+		    input.wpcf7-form-control.wpcf7-submit,
+		    input.wpcf7-form-control.wpcf7-submit[disabled],
+		    input.wpcf7-form-control.wpcf7-submit:not([disabled]),
+		    input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover,
+		    .qbutton.white,
+		    .qbutton.white:hover,
+		    .qbutton.solid_color,
+		    .qbutton.solid_color:hover,
+		    .qbutton.top_and_bottom_border,
+		    .qbutton.top_and_bottom_border:hover,
+		    .eltd_counter_holder .separator.medium,
+		    .eltd_icon_shade.circle,
+		    .eltd_icon_shade.square,
+		    .eltd_pricing_border,
+		    .price_table_inner .price_button a,
+		    .price_table_inner .button_on_bottom_wrapper a,
+		    .single_tags  a:hover,
+		    aside.sidebar .widget .tagcloud a:hover,
+		    .widget .tagcloud a:hover,
+		    .box_holder_icon_inner:not(.normal_icon) .eltd_icon_stack,
+		    .eltd_icon_with_title:not(.normal_icon) .icon_holder .eltd_icon_stack,
+		    .eltd_icon_with_title:not(.normal_icon) .eltd_font_elegant_holder,
+		    .eltd_team.below_image:hover .social_share_icon_shape,
+		    .box_holder_icon_inner:not(.normal_icon) .eltd_font_elegant_holder,
+		    .pagination ul li a:hover,
+		    .single_links_pages span:hover,
+		    .comment_pager a:hover,
+		    .comment_pager .current:hover,
+		    .pagination ul li.active span,
+		    .single_links_pages > span,
+		    .comment_pager .current,
+		    .comment_pager .page-numbers.dots:hover,
+		    .side_menu a.close_side_menu:hover span,
+		    .side_menu_button a.side_menu_button_link:hover{
+		    border-color: #006fcf;
+		    }
+		
+		    .drop_down .second,
+		    .eltd_progress_bar .progress_number_wrapper.floating .down_arrow,
+		    div.vc_row .row_badge .row_badge_triangle,
+		    section.parallax_section_holder .row_badge .row_badge_triangle{
+		    border-top-color: #006fcf;
+		    }
+		
+		    .eltd_team_social_holder .eltd_social_icon_holder:hover .eltd_icon_stack{
+		    border-color: #006fcf !important;
+		    }
+		    .eltd_circles_holder .eltd_circle_inner:hover {
+		    border-color: #006fcf ;
+		    }
+		
+		    	    	
+	    		    .ajax_loader .pulse,
+		    .ajax_loader .double_pulse .double-bounce1, .ajax_loader .double_pulse .double-bounce2,
+		    .ajax_loader .cube,
+		    .ajax_loader .rotating_cubes .cube1, .ajax_loader .rotating_cubes .cube2,
+		    .ajax_loader .stripes > div,
+		    .ajax_loader .wave > div,
+		    .ajax_loader .two_rotating_circles .dot1, .ajax_loader .two_rotating_circles .dot2,
+		    .ajax_loader .five_rotating_circles .container1 > div, .ajax_loader .five_rotating_circles .container2 > div, .ajax_loader .five_rotating_circles .container3 > div,
+		    .ajax_loader .atom .ball-1:before,.ajax_loader .atom .ball-2:before, .ajax_loader .atom .ball-3:before, .ajax_loader .atom .ball-4:before,
+		    .ajax_loader .clock .ball:before,
+		    .ajax_loader .mitosis .ball,
+		    .ajax_loader .lines .line1, .ajax_loader .lines .line2, .ajax_loader .lines .line3, .ajax_loader .lines .line4,
+		    .ajax_loader .fussion .ball, .ajax_loader .fussion .ball-1, .ajax_loader .fussion .ball-2, .ajax_loader .fussion .ball-3, .ajax_loader .fussion .ball-4,
+		    .ajax_loader .wave_circles .ball,
+		    .ajax_loader .pulse_circles .ball{
+		    background-color: #006fcf;
+		    }
+	    	
+	    		    .ajax_loader .pulse_circles .ball{
+		    border-color: #006fcf;
+		    }
+	    	
+	    	
+	
+	
+	
+	
+	    	    	    	
+	    	
+	    	
+	    	
+	    		    .header_bottom,
+		    .fixed_top_header .bottom_header{
+		    background-color: rgba(255,255,255,0.9);
+		    }
+		
+		    	
+	    	
+	    	
+	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    		    .content .content_inner > .container > .container_inner,
+		    .content .content_inner > .full_width > .full_width_inner{
+		    padding-top: 0px;
+		    }
+	    	
+	    		    .content .content_inner > .container > .container_inner.default_template_holder{
+		    padding-top: 80px;
+		    }
+	    	
+	    		    @media only screen and (max-width: 1000px){
+		    .content .content_inner > .container > .container_inner,
+		    .content .content_inner > .full_width > .full_width_inner,
+		    .content .content_inner > .container > .container_inner.default_template_holder{
+		    padding-top: 44px !important;
+		    }
+		    }
+	    	
+	    	
+	    		    .title{
+		    border-bottom: 1px solid #dfdfdf;
+		    }
+	    	    	
+	
+	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    		    header.fixed.scrolled .header_bottom,
+		    header.fixed.scrolled .header_top,
+		    header.fixed_hiding.scrolled .header_bottom,
+		    header.fixed_hiding.scrolled .header_top{
+		    background-color: rgba(255,255,255,1) !important;
+		    }
+	    	
+	    	
+	    	
+	    	
+	
+	    		    header.sticky .header_bottom{
+		    background-color: rgba(255,255,255,1) !important;
+		    }
+	    	
+	    	    		    header:not(.sticky):not(.scrolled) .header_bottom,
+		    header.fixed_top_header .bottom_header{
+		    border-bottom: 1px solid #dfdfdf;
+		    }
+	    	    		
+		    				    header:not(.sticky):not(.scrolled) .header_bottom,
+				    header.fixed_top_header .bottom_header{
+				    border-color: rgba(211,211,211,0.8);
+				    border-style:solid;
+				    border-bottom-width: 1px;
+				    }
+			    	
+	    		    header:not(.sticky):not(.scrolled):not(.fixed_top_header) .header_top_bottom_holder,
+		    header.fixed_top_header .top_header{
+		    border-top-style:solid;
+		    border-top-width: 1px;
+		    			    border-top-color: rgba(211,211,211,0.8);
+		    		    }
+	    	
+	    		    header.sticky .header_top{
+		    background-color: rgba(0,0,0,1);
+		    }
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    		
+		    		    .content{
+		    margin-top: 0;
+		    }
+	    	
+	    	
+	
+	    header .header_bottom.left_menu_position .logo_wrapper{
+	    width: 88.5px;
+	    }
+	
+	
+	    		    .header_top,
+		    .header_top .left,
+		    .header_top .right,
+		    .header_top .shopping_cart_outer,
+		    .fullscreen_search_in_header_top .search_close_holder .side_menu_button{
+		    height: 25px;
+		    line-height: 25px;
+		    }
+		    .header_top #lang_sel > ul > li > a,
+		    .header_top #lang_sel_click > ul > li > a{
+		    height: 25px !important;
+		    line-height: 25px !important;
+		    }
+		
+		    .header_top #lang_sel ul  ul,
+		    .header_top #lang_sel_click ul ul{
+		    top: 25px;
+		    }
+	    	
+	    	
+	    	    	
+	
+	    	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	    	    	    	
+	    	
+	    		
+		    		
+		    .fixed_top_header.has_top .bottom_header{
+		    padding-top:  26px;
+		    }
+	
+	    	
+	    	
+	    	
+	
+	
+	    		    .content.content_top_margin{
+		    margin-top: 137px !important;
+		    }
+		
+		    			    .content.content_top_margin_negative{
+			    top: -137px !important;
+			    }
+		    		
+		    .vertical_menu_enabled .content.content_top_margin{
+		    margin-top: 0px !important;
+		    }
+		
+		    	
+	    	
+	
+	    	
+	
+	    @media only screen and (min-width: 600px) and (max-width: 1000px) {
+	    body.page-template-full_screen .content{
+	    top: -112px !important;
+	    }
+	    }
+	
+	    @media only screen and (max-width: 600px) {
+	    body.enable_full_screen_sections_on_small_screens.page-template-full_screen .content{
+	    top: -112px !important;
+	    }
+	    }
+	
+	
+	    	
+	    	
+	    		    header.sticky .logo_wrapper,
+		    header.sticky .side_menu_button,
+		    header.sticky .header_bottom_right_widget_holder,
+		    .side_menu.sticky .close_side_menu_holder{
+		    height: 60px !important;
+		    }
+		
+		    header.sticky .side_menu_button_wrapper .side_menu_button a.search_icon_bckg_full{
+		    line-height: 60px !important;
+		    }
+	    	
+	    		    header.sticky .header_bottom,
+		    header.fixed.scrolled .header_bottom,
+		    header.fixed_hiding.scrolled .header_bottom{
+		    box-shadow: none;
+		    -webkit-box-shadow: none;
+		    box-shadow: none;
+		    }
+	    	
+	    		    header.sticky .header_bottom,
+		    header.fixed.scrolled .header_bottom,
+		    header.fixed_hiding.scrolled .header_bottom{
+		    border-bottom: 1px solid #d3d3d3 !important;
+		    }
+	    	
+	
+	    	
+	    	
+	    		    header:not(.sticky):not(.scrolled) .drop_down .second {
+		    top: 100%;		    }
+	    	
+	    	
+	    		    @media only screen and (min-width: 1000px){
+		    header.fixed_hiding .eltd_logo a,
+		    header.fixed_hiding .eltd_logo{
+		    max-height: 40px;
+		    }
+		    }
+		    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    		    .touch section.parallax_section_holder{
+		    height: auto !important;
+		    min-height: 300px;
+		    background-position: center top !important;
+		    background-attachment: scroll;
+		    background-size: cover;
+		    }
+	    	
+	    	
+	
+	    		    .fixed_top_header  nav.main_menu > ul > li > a,
+		    .fixed_top_header .top_header .right,
+		    .fixed_top_header .side_menu_button_wrapper .side_menu_button a.search_icon_bckg_full{
+		    line-height: 25px;
+		    }
+		    .fixed_top_header .side_menu_button,
+		    .fixed_top_header .shopping_cart_inner,
+		    .fixed_top_header .header_bottom_right_widget_holder{
+		    height: 25px;
+		    }
+	
+	    	
+	
+	    	
+	    	
+	    	
+	    		
+		    .drop_down .second .inner ul,
+		    .drop_down .second .inner ul li ul,
+		    .shopping_cart_dropdown,
+		    li.narrow .second .inner ul,
+		    .header_top #lang_sel ul ul,
+		    .header_top #lang_sel_click ul ul,
+		    .header_bottom #lang_sel ul ul,
+		    .header_bottom #lang_sel_click  ul ul,
+		    .header-widget.widget_nav_menu ul ul,
+		    .drop_down .wide.wide_background .second{
+		    background-color: rgba(0,0,0,1);
+		    }
+	
+	    	
+	    	
+	
+	
+	    		    		    .drop_down .narrow .second .inner ul li ul,
+		    .drop_down.slide_from_bottom .narrow .second .inner ul li:hover ul,
+		    .drop_down.slide_from_top .narrow .second .inner ul li:hover ul{
+		    top:-15px;
+		    }
+	
+	    	
+	
+	
+	    	
+	    		    .drop_down .wide .second .inner > ul{
+		    padding-top: 27px;
+		    }
+	    	
+	    		    .drop_down .wide .second .inner > ul{
+		    padding-bottom: 20px;
+		    }
+	    	
+	    		    .drop_down li:not(.wide_background) .second{
+		    border-top: 0 !important;
+		    }
+	    	
+	    		    .drop_down li.wide_background .second{
+		    border-top: 0 !important;
+		    }
+	    	
+	    		    .drop_down .second .inner > ul > li:last-child > a,
+		    .drop_down .second .inner > ul > li > ul > li:last-child > a,
+		    .drop_down .second .inner > ul > li > ul > li > ul > li:last-child > a{
+		    border-bottom:1px solid transparent;
+		    }
+	
+	    	    		    .drop_down .second .inner ul li,
+		    .header-widget.widget_nav_menu ul.menu li ul li{
+		    border-bottom: 1px solid #ebedef;
+		    }
+	    	
+	    	
+	    	
+	    		    nav.main_menu > ul > li > a{
+		     color: #00175a; 		    		    		    		    		    		    		    }
+	    	
+	    		    .header_bottom #lang_sel > ul > li > a,
+		    .header_bottom #lang_sel_click > ul > li > a,
+		    .header_bottom #lang_sel ul > li:hover > a{
+		     color: #00175a !important; 		    		    		    		    		    		    		    }
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	
+	    	
+	    	
+	    	    	
+	    	    	
+	    	
+	
+	    	
+	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	
+	    		    nav.main_menu > ul > li > a{
+		    		
+		    		    }
+	    	
+	    	
+	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    		    	    	
+	    		    	    	
+	
+	    		    nav.main_menu >ul > li > a > span.plus{
+		    display: block;
+		    background-color: #ffffff;
+		    }
+	    	
+	
+	    		    nav.main_menu > ul > li.active > a,
+		    header:not(.with_hover_bg_color) nav.main_menu > ul > li.active > a{
+		    color: #006fcf;
+		    }
+	    	
+	    	
+	    	
+	
+	    		    nav.main_menu > ul > li:hover > a,
+		    nav.main_menu > ul > li.active:hover > a,
+		    header:not(.with_hover_bg_color) nav.main_menu > ul > li:hover > a,
+		    header:not(.with_hover_bg_color) nav.main_menu > ul > li.active:hover > a,
+		    .header_bottom #lang_sel ul li a:hover,
+		    .header_bottom #lang_sel_click > ul > li a:hover{
+		    color: #006fcf !important;
+		    }
+	    	
+	    		    nav.main_menu.line_under > ul > li > a .item_text:before,
+		    nav.main_menu.line_spread > ul > li > a .item_text:before{
+		    background-color: #006fcf;
+		    }
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	    		    .drop_down .second .inner>ul,
+		    li.narrow .second .inner ul,
+		    .drop_down .narrow .second .inner ul li ul{
+		    border: none;
+		    }
+		
+		    		    .drop_down .second .inner ul.right li ul{
+		    margin-left: 0;
+		    }
+	
+	    	
+	    	
+	
+	    		    .drop_down .wide .second .inner>ul>li>a{
+		     color: #ffffff; 		    		    		    		    		    		    		    		    }
+	    	    		    .drop_down .wide .second .inner > ul > li:hover > a {
+		    color: #ffffff !important;
+		    }
+	    	    		    .drop_down .wide .second .inner > ul > li:hover{
+		    background-color: #0059a7 ;
+		    }
+	    	
+	
+	    	
+	    	
+	
+	
+	    		    .drop_down .second .inner ul li.sub ul li a{
+		     color: #ffffff;  		    		    		    		    		    		    		    		    }
+	    	    		    .drop_down .second .inner ul li.sub ul li:not(.flex-active-slide):hover > a:not(.flex-prev):not(.flex-next),
+		    .drop_down .second .inner ul li ul li:not(.flex-active-slide):hover > a:not(.flex-prev):not(.flex-next){
+		    color: #ffffff !important;
+		    }
+	    	
+	    		    .drop_down .second .inner ul li.sub ul li:hover,
+		    .drop_down .second .inner ul li ul li:hover{
+		    background-color: #0059a7;
+		    }
+	    	
+	    	    	
+	    	
+	
+	    	    	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	    	
+	    	
+	
+	
+	    	    	
+	    	
+	
+	
+	    	
+	    	
+	    	
+	    	    	    	
+	
+	    	    	    	    	    	
+	
+	    	
+	    	
+	
+	    	
+	    	
+	
+	    	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	    	
+	    	
+	    	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	    	    	    	
+	    	
+	    	
+	    	
+	
+	    		    .blog_holder.blog_masonry_gallery article .post_text .post_text_inner2,
+		    .blog_holder.blog_masonry_gallery article .post_text .post_info{
+		    text-align: center		    }
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	    	
+	    	
+	    	
+	
+	    	    	
+	    	
+	    	
+	    	
+	
+	    	
+	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    		    .blog_holder.masonry article,
+		    .blog_holder.masonry_full_width article{
+		    border-width: 1px		    }
+	    	
+	
+	    	
+	    	
+	    	    	    	
+	    	
+	    	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	
+	    	
+	    	    	    	    	
+	    	    	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	    	
+	    	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	    	
+	    	
+	    	    	    	    	    	    	
+	    	    	    	    	
+	
+	    	    	    	    	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	    	
+	    	
+	    	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	    	    	
+	    	
+	    	
+	    	
+	    		    .blog_holder.blog_vertical_loop_type article .post_image_title h2,
+		    .blog_vertical_loop_clapper .clap-title h2{
+		    text-align: dropdown		    }
+	    		    .blog_vertical_loop_clapper .clap-subtitle h4,
+		    .blog_vertical_loop_type .post_image_inner .post-subtitle h4 {
+		    text-align: dropdown		    }
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	
+	
+	
+	    	
+	
+	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	    	
+	    	    	    	    	    	
+	    	
+	
+	    	
+	
+	    	
+	    	
+	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	
+	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    		    .qbutton,
+		    .qbutton.medium,
+		    #submit_comment,
+		    .load_more a,
+		    .blog_load_more_button a,
+		    .post-password-form input[type='submit'],
+		    .qbutton.rotate_icon,
+		    .qbutton.rotate_text_and_icon,
+		    .qbutton.fill_text_rotate_icon{
+		    background-color: #036ecf;		    }
+		    	
+	    	    .qbutton.big_large_full_width .text_holder{
+	    width: calc(100% - 50px);
+	    }
+	    .service_table_holder .qbutton.big_large_full_width{
+	    margin: -2px;
+	    width: calc(100% + 4px);
+	    }
+	    	
+	    	
+	    	
+	    		    .qbutton:hover,
+		    .qbutton:not(.white):hover,
+		    .qbutton.medium:hover,
+		    #submit_comment:hover,
+		    .load_more a:hover,
+		    .blog_load_more_button a:hover,
+		    .post-password-form input[type='submit']:hover {
+		    background-color: #0259a7;		    }
+		    	
+	    		    .qbutton.transparent,
+		    .load_more.transparent	a{
+		    color: #036ecf;
+		    }
+	    		    .qbutton.transparent:hover,
+		    .load_more.transparent	a:hover	{
+		    color: #ffffff;
+		    }
+	    		    .qbutton.transparent,
+		    .load_more.transparent,
+		    .qbutton.icon_right.transparent .icon_holder,
+		    .load_more.icon_right.transparent a .icon_holder{
+		    border-color: #036ecf;
+		    }
+	    		    .qbutton.transparent.animate_button.fill_text_rotate_icon .text_holder .a_overlay,
+		    .load_more.transparent.animate_button.fill_text_rotate_icon a .text_holder .a_overlay{
+		    background-color: #0259a7;
+		    }
+	    	
+	    	
+	
+	    		    .qbutton.animate_button.fill_text_rotate_icon:not(.transparent) .text_holder .a_overlay,
+		    .load_more.animate_button.fill_text_rotate_icon:not(.transparent) a .text_holder .a_overlay{
+		    background-color:#0259a7;
+		    }
+	    	    		    .qbutton.animate_button.fill_text_rotate_icon:hover,
+		    .load_more.animate_button.fill_text_rotate_icon a:hover{
+		    background-color:#036ecf;
+		    }
+	    	
+	
+	
+	
+	    	
+	    	
+	
+	    		    .qbutton.animate_button.rotate_icon  .icon_holder,
+		    .load_more.animate_button.rotate_icon  a .icon_holder,
+		    .qbutton.animate_button.rotate_text_and_icon  .icon_holder,
+		    .load_more.animate_button.rotate_text_and_icon  a .icon_holder,
+		    .qbutton.animate_button.fill_text_rotate_icon  .icon_holder,
+		    .load_more.animate_button.fill_text_rotate_icon  a .icon_holder{
+		    color:#ffffff;
+		    }
+	    	
+	
+	    		    .qbutton.animate_button.rotate_icon  .icon_holder .hidden_icon,
+		    .load_more.animate_button.rotate_icon  a .icon_holder .hidden_icon,
+		    .qbutton.animate_button.rotate_text_and_icon  .icon_holder .hidden_icon,
+		    .load_more.animate_button.rotate_text_and_icon  a .icon_holder .hidden_icon,
+		    .qbutton.animate_button.fill_text_rotate_icon  .icon_holder > span:not(.hidden_icon),
+		    .load_more.animate_button.fill_text_rotate_icon  a .icon_holder > span:not(.hidden_icon){
+		    color:#ffffff;
+		    }
+	    	
+	    		    .qbutton.transparent.animate_button.rotate_text_and_icon:hover,
+		    .load_more.transparent.animate_button.rotate_text_and_icon  a:hover,
+		    .qbutton.transparent.animate_button.rotate_icon:hover,
+		    .load_more.transparent.animate_button.rotate_icon  a:hover,
+		    .qbutton.transparent.animate_button.fill_text_rotate_icon:hover,
+		    .load_more.transparent.animate_button.fill_text_rotate_icon  a:hover{
+		    color:#036ecf;
+		    }
+	    	
+	    		    .qbutton.transparent.animate_button.rotate_text_and_icon  .text_holder .hidden_text,
+		    .load_more.transparent.animate_button.rotate_text_and_icon  a .text_holder .hidden_text{
+		    color:#ffffff;
+		    }
+	    	
+	    		    .qbutton.transparent.animate_button.rotate_icon  .icon_holder,
+		    .load_more.transparent.animate_button.rotate_icon  a .icon_holder,
+		    .qbutton.transparent.animate_button.rotate_text_and_icon  .icon_holder,
+		    .load_more.transparent.animate_button.rotate_text_and_icon  a .icon_holder,
+		    .qbutton.transparent.animate_button.fill_text_rotate_icon  .icon_holder,
+		    .load_more.transparent.animate_button.fill_text_rotate_icon  a .icon_holder{
+		    color:#036ecf;
+		    }
+	    	
+	
+	    		    .qbutton.transparent.animate_button.rotate_icon  .icon_holder .hidden_icon,
+		    .load_more.transparent.animate_button.rotate_icon  a .icon_holder .hidden_icon,
+		    .qbutton.transparent.animate_button.rotate_text_and_icon  .icon_holder .hidden_icon,
+		    .load_more.transparent.animate_button.rotate_text_and_icon  a .icon_holder .hidden_icon,
+		    .qbutton.transparent.animate_button.fill_text_rotate_icon  .icon_holder > span:not(.hidden_icon),
+		    .load_more.transparent.animate_button.fill_text_rotate_icon  a .icon_holder > span:not(.hidden_icon){
+		    color:#ffffff !important;
+		    }
+	    	
+	
+	
+	    	    		    #back_to_top > span{
+		    font-size: 14px;		    }
+		    	
+	    	
+	    	
+	
+	    	
+	    		    .ls-noskin .ls-nav-prev,
+		    .ls-noskin .ls-nav-next,
+		    .carousel-control .prev_nav,
+		    .carousel-control .next_nav{
+		    color: rgba(0,0,0,0.7);		    }
+		
+		    		
+		    		
+		    		
+		    		
+		    	
+	    		    .carousel-control .prev_nav .numbers,
+		    .carousel-control .next_nav .numbers {
+		    -webkit-transition: color 0.15s ease-out;
+		    -moz-transition: color 0.15s ease-out;
+		    transition: color 0.15s ease-out;
+		    font-size: 10px;letter-spacing: 1px;font-style: italic;color: #000000;opacity: 0.7		    }
+	    		    .carousel-control .prev_nav:hover .numbers,
+		    .carousel-control .next_nav:hover .numbers {
+		    color: #000000;opacity: 0.9		    }
+	
+	    	
+	    	    	
+	    	
+	    	
+	    	
+	    		    .ls-noskin .ls-nav-prev:hover,
+		    .ls-noskin .ls-nav-next:hover,
+		    .carousel-control .prev_nav:hover,
+		    .carousel-control .next_nav:hover
+		
+		    {
+		    color: rgba(0,0,0,0.9);background-color: rgba(255,255,255,0.3);		    }
+		
+		    		
+		    	
+	    	
+	
+	    		    .wpb_gallery .flexslider_slide .flex-control-paging li a,
+		    .wpb_gallery .flexslider_fade .flex-control-paging li a,
+		    .blog_slider .blog_slider_pager a{
+		    background-color: #000000;		    }
+	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	
+	
+	    	
+	    	
+	
+	
+	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    .eltd_team.below_image.social_style_between .eltd_team_social_holder_between.center{
+	    right: calc(50% - 23px);
+	    }
+	
+	    .eltd_pricing_tables .price_table_inner ul a.button_on_bottom{
+	    left: calc(50% - 24px);
+	    }
+	
+	
+	    	
+	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	
+	    	    	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	
+	    	
+	
+	    	
+	    	
+	
+	    	
+	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	    	    	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	    	
+	    		    .footer_inner{
+		    background-image:url(<?php esc_url(site_url()); ?>/wp-content/uploads/2020/05/footer_flourish.png);
+		    background-position: 0 0;
+		    }
+		    .footer_top_holder,.footer_bottom_holder, .content footer .container, .footer_ingrid_border_holder_outer{
+		    background-color:transparent;
+		    }
+	    	    		    footer.footer_border_columns .footer_top .eltd_column{
+		    border-color:#ffffff;
+		    }
+	    	
+	
+	    	
+	    		    .footer_top_holder, .footer_ingrid_border_holder_outer{
+		    background-color:#006fc6;
+		    }
+	    	    	
+	    		    .footer_top_holder{
+		    background-image:url(<?php esc_url(site_url()); ?>/wp-content/uploads/2020/05/footer_flourish.png);
+		    }
+	    	    	    		    @media only screen and (min-width: 600px){
+		    .footer_top, .footer_top.footer_top_full{
+		    		    padding-right: 50px; 		    }
+		    }
+	    	    		    @media only screen and (min-width: 600px){
+		    .footer_top .eltd_column{
+		    text-align:  left		    }
+		    }
+	    	    		    @media only screen and (min-width: 600px){
+		    .footer_top .eltd_column.column1{
+		    text-align:  left		    }
+		    }
+	    	    		    @media only screen and (min-width: 600px){
+		    .footer_top .eltd_column.column2,
+		    .footer_top .eltd_column.footer_col2{
+		    text-align:  left		    }
+		    }
+	    	    		    @media only screen and (min-width: 600px){
+		    .footer_top .eltd_column.column3,
+		    .footer_top .eltd_column.footer_col3{
+		    text-align:  left		    }
+		    }
+		    	    	
+	    		    .footer_top,
+		    .footer_top p:not(.eltd_icon_list_text),
+		    .footer_top span:not(.eltd_social_icon_holder):not(.fa-stack):not(.social_icon):not(.eltd_icon_shortcode):not(.eltd_icon_list_item_icon):not(.eltd_icon_font_elegant):not(.text_wrap),
+		    .footer_top li,
+		    .footer_top .textwidget,
+		    .footer_top .widget_recent_entries>ul>li>span{
+		    color: #ffffff		    }
+	    	
+	    		    .footer_top a{
+		    color: #ffffff		    }
+	    	
+	    	
+	    	
+	
+	
+	
+	    		    .footer_bottom_holder{
+		    background-color:#006fc6;
+		    }
+	    	
+	    	
+	    	    	
+	    	
+	    		    .footer_bottom_holder_inner a,
+		    .footer_bottom_holder_inner ul li a{
+		    color: #ffffff		    }
+	    	
+	    	
+	    		    .footer_bottom_holder ul.menu li{
+		    border-right-width: 1px; border-right-style: solid; border-right-color: #ffffff; padding-right: 15px; margin-right: 5px		    }
+		    .footer_bottom_holder ul.menu li:last-child{
+		    border-right: none;
+		    padding-right: 0;
+		    margin-right: 0;
+		    }
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	    		    aside.sidebar{
+		    text-align: left		    }
+	    	
+	
+	    	
+	    		    aside.sidebar .widget > h4,
+		    .woocommerce aside.sidebar .widget h4{
+		    text-align:  left;
+		    }
+	    	
+	    		    aside.sidebar .widget.widget_tag_cloud > h4:before{
+		    content: "\e01c";
+		    font-family: 'Simple-Line-Icons';
+		    margin-right: 10px;
+		    }
+		    aside.sidebar .widget.eltd-latest-posts-widget > h4:before{
+		    content: "\e067";
+		    font-family: 'Simple-Line-Icons';
+		    margin-right: 10px;
+		    }
+		    aside.sidebar .widget.widget_recent_comments > h4:before{
+		    content: "\e07d";
+		    font-family: 'Simple-Line-Icons';
+		    margin-right: 10px;
+		    }
+		
+		    aside.sidebar .widget.widget_text > h4:before{
+		    content: "\e04c";
+		    font-family: 'Simple-Line-Icons';
+		    margin-right: 10px;
+		    }
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    		
+		    		
+		    		
+		    	
+	    	
+	
+	    	    	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	
+	    	
+	    	
+	    	
+	    		    .carousel-indicators li.active span:before,
+		    .carousel-indicators li span:before {
+		    border-color: #000000;
+		    }
+		    .carousel-indicators li.active span {
+		    background-color: #000000;
+		    }
+	    	
+	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	
+	
+	    	
+	
+	    .vertical_menu_to_content .menu-item .second{
+	    left: calc(100% + 40px); /*because of the padding*/
+	    width: calc(100% + 30px); /*because of the width need to be 30 wider */
+	    }
+	    .vertical_menu_right .vertical_menu_to_content .menu-item .second{
+	    right: calc(100% + 40px);
+	    }
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	
+	
+	
+	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	
+	
+	    	
+	    	
+	    	
+	
+	
+	    .vertical_menu_hidden_with_icons .vertical_menu_to_content .second .inner ul li ul {
+	    left: calc(100% + 40px);
+	    }
+	
+	    	
+	    	
+	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	
+	    	
+	    	
+	    	
+	    	
+	    	    	
+	    	
+	    	
+	    	
+	    	
+	    		    .projects_holder article .portfolio_description{
+		    background-color: transparent;
+		    }
+		
+		    .projects_holder.standard article .portfolio_description,
+		    .projects_holder.standard_no_space article .portfolio_description {
+		    padding-left: 0;
+		    padding-right: 0;
+		    }
+		
+		    .masonry_with_space .projects_holder article .portfolio_description {
+		    padding: 35px 0 43px;
+		    }
+	    	
+	    		    		
+		    .projects_holder article .item_holder.gradient_hover .portfolio_shader,
+		    .projects_masonry_holder article .item_holder.gradient_hover .portfolio_shader,
+		    .portfolio_slider li.item .item_holder.gradient_hover .portfolio_shader{
+		    background: -webkit-linear-gradient(top, rgba(255,255,255,0) 10%, rgba(255,255,255,0.9) 100%);
+		    background: linear-gradient(to bottom, rgba(255,255,255,0) 10%, rgba(255,255,255,0.9) 100%);
+		    }
+		
+		    .portfolio_main_holder .item_holder.subtle_vertical_hover .portfolio_shader,
+		    .portfolio_main_holder .item_holder.image_subtle_rotate_zoom_hover .portfolio_shader,
+		    .portfolio_main_holder .item_holder.image_text_zoom_hover .portfolio_shader,
+		    .portfolio_main_holder .item_holder.opposite_corners_hover .portfolio_shader,
+		    .portfolio_main_holder .item_holder.slide_from_left_hover .portfolio_shader,
+		    .portfolio_main_holder .item_holder.prominent_plain_hover .portfolio_shader,
+		    .portfolio_main_holder .item_holder.cursor_change_hover .portfolio_shader,
+		    .portfolio_main_holder .item_holder.slide_up_hover .portfolio_shader,
+		    .portfolio_main_holder .item_holder.icons_bottom_corner .portfolio_shader,
+		    .portfolio_main_holder .item_holder.text_slides_with_image .portfolio_shader,
+		    .portfolio_main_holder .item_holder.slow_zoom .portfolio_shader,
+		    .portfolio_main_holder .item_holder.thin_plus_only .portfolio_shader,
+		    .portfolio_main_holder .item_holder.split_up .portfolio_shader,
+		    .portfolio_main_holder .item_holder.circle_hover .portfolio_shader,
+		    .portfolio_main_holder .item_holder.border_hover .portfolio_shader{
+		    background-color: rgba(255,255,255,0.7);
+		    }
+		
+		    .portfolio_main_holder .item_holder.prominent_blur_hover.blur .portfolio_shader{
+		    background-color: rgba(255,255,255,0.7);
+		    }
+		
+		    .portfolio_main_holder article:hover .item_holder.border_hover .portfolio_shader,
+		    .portfolio_slider li.item:hover .item_holder.border_hover .portfolio_shader{
+		    opacity: 1;
+		    }
+	    	
+	    	
+	    	
+	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	    	
+	    	
+	    @media only screen and (min-width: 1000px){
+	    	    }
+	
+	
+	    	
+	    	
+	    	
+	    	    		    .header_top .header-widget.widget_nav_menu ul.menu li:hover > a{
+		    text-decoration: none;
+		    }
+	    	    	    	    		    .header_top .header-widget.widget_nav_menu ul.menu li.current-menu-item > a,
+		    .header_top .header-widget.widget_nav_menu ul.menu li.current-menu-item:hover > a{
+		    text-decoration: none;
+		    }
+	    	    	    	    	
+	
+	    	
+	    	    .filter_outer.filter_portfolio .filter_holder.without_separator ul li.filter:after{
+	    height: calc(100% + 4px);
+	    width: calc(100% + 4px);
+	    }
+	    .filter_outer.filter_portfolio .filter_holder.without_separator ul li.filter:before{
+	    height: calc(100% + 4px);
+	    }
+	    .filter_outer.filter_portfolio .filter_holder.without_separator ul li.filter span:before{
+	    height: calc(100% + 4px);
+	    }
+	
+	    @media only screen and (max-width: 768px){
+	    .filter_outer.filter_portfolio .filter_holder.without_separator ul li.filter:before{
+	    width: calc(100% + 4px) !important;
+	    }
+	    .filter_outer.filter_portfolio .filter_holder.without_separator ul li.filter:after {
+	    width: calc(100% + 4px) !important;
+	    }
+	    }
+	    	
+	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    			    .portfolio_main_holder .item_holder:not(.roll_over) .icons_holder  a,
+			    .portfolio_main_holder .item_holder:not(.roll_over_entry_animation) .icons_holder a,
+			    .item_holder[class*='roll_over'] .icons_holder div[class$='holder'] a:last-child,
+			    .item_holder[class*='roll_over'] .icons_holder div[class$='holder']:hover a:last-child {
+			    color: #ffffff!important;			    }
+			    		
+		    	
+	    	
+	
+	    			    .portfolio_main_holder .item_holder:not(.roll_over) .icons_holder a:hover,
+			    .portfolio_main_holder .item_holder:not(.roll_over_entry_animation) .icons_holder a:hover,
+			    .item_holder[class*='roll_over'] .icons_holder div[class$='holder'] a:first-child,
+			    .item_holder[class*='roll_over'] .icons_holder div[class$='holder']:hover a:first-child {
+			    color: #ffffff!important;			    }
+			
+			    	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    			    .projects_holder article .icons_holder a.portfolio_lightbox:before,
+			    .projects_masonry_holder article .icons_holder a.portfolio_lightbox:before,
+			    .portfolio_slides .icons_holder a.portfolio_lightbox:before{
+			    font-family: 'FontAwesome';
+			    content: "\f065";
+			    line-height: inherit;
+			    }
+			
+			    .projects_holder article .icons_holder a.eltd-like:before,
+			    .projects_masonry_holder article .icons_holder a.eltd-like:before,
+			    .portfolio_slides .icons_holder a.eltd-like:before{
+			    font-family: 'FontAwesome';
+			    content: "\f08a";
+			    line-height: inherit;
+			    }
+			
+			    .projects_holder article .icons_holder a.eltd-like.liked:before,
+			    .projects_masonry_holder article .icons_holder a.eltd-like.liked:before,
+			    .portfolio_slides .icons_holder a.eltd-like.liked:before{
+			    font-family: "FontAwesome";
+			    content: "\f004";
+			    line-height: inherit;
+			    }
+			
+			
+			    .projects_holder article .icons_holder a.preview:before,
+			    .projects_masonry_holder article .icons_holder a.preview:before,
+			    .portfolio_slides .icons_holder a.preview:before {
+			    content: "\f067";
+			    font-family: "FontAwesome";
+			    line-height: inherit;
+			    }
+		
+		    	
+	    	
+	    	
+	    	    	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	
+	    	
+	
+	    	
+	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	    	
+	    	    	
+	    	    	
+	    	
+	    	
+	    	
+	    	
+	    .preload_background,
+	    .preload_parallax_layers{
+	    		    background-image: url("//wp-content/themes/moose/img/preload_pattern.png") !important;
+	    	    }
+	
+	    	
+	    	
+	
+	    	
+	    		    .masonry_gallery_item.square_big .masonry_gallery_item_inner .masonry_gallery_item_content{
+		    text-align: center		    }
+	
+	    	
+	    	
+	    	
+	
+	    		    .masonry_gallery_item.square_small .masonry_gallery_item_inner .masonry_gallery_item_content{
+		    text-align: center		    }
+	
+	    	
+	    	
+	    	
+	    		    .masonry_gallery_item.rectangle_portrait .masonry_gallery_item_inner .masonry_gallery_item_content{
+		    text-align: center		    }
+	
+	    	
+	    	
+	    	
+	    		    .masonry_gallery_item.rectangle_landscape .masonry_gallery_item_inner .masonry_gallery_item_content{
+		    text-align: center		    }
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	
+	    	
+	    	
+	    	
+	    	
+	
+	    	    	
+	    	
+	    	
+	    	
+	
+	    		
+		    	
+	    	
+	    	
+	    	
+	
+	    		
+		    		
+		    	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    	
+	    	
+	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+	    
+       
+
+        

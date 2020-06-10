@@ -1,0 +1,52 @@
+# Copyright (C) 2019 Elated Themes
+# This file is distributed under the same license as the Elated CPT plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Elated CPT 2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/eltd-cpt\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-04-17T14:25:43+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.1.0\n"
+"X-Domain: eltd-cpt\n"
+
+#. Plugin Name of the plugin
+msgid "Elated CPT"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin that adds all post types needed by our theme"
+msgstr ""
+
+#. Author of the plugin
+msgid "Elated Themes"
+msgstr ""
+
+#: main.php:56
+#: main.php:58
+msgid "Elated Options"
+msgstr ""
+
+#: main.php:80
+msgid "Elated Options - "
+msgstr ""
+
+#: modules/import/eltd-import.php:69
+msgid "An Error Occurred During Import"
+msgstr ""
+
+#: modules/import/eltd-import.php:72
+msgid "Content imported successfully"
+msgstr ""
+
+#: modules/import/eltd-import.php:218
+msgid "Elated Options - Elated Import"
+msgstr ""
+
+#: modules/import/eltd-import.php:219
+msgid "Import"
+msgstr ""
